@@ -1,9 +1,11 @@
 # Changelog
 All notable changes to the betterplace.org API v4 will be documented in this file.
 
-## 2020-12-10
+## 2021-06-08
+
 ### Changed
-- Deprecate `donor_count` on [project details](sections/project_details.md) and [fundraising events details](section/fundraising_event_details.md). We will remove this value after 2021-01-01. Please use `donations_count` instead.
+
+- Deprecate `donor_count` on [project details](sections/project_details.md) and [fundraising events details](section/fundraising_event_details.md). We will remove this value after 2021-12-31. Please use `donations_count` instead.
 
 ## 2020-12-10
 ### Changed
