@@ -265,7 +265,7 @@ Count of confirmed donations for this fundraising event
 <td>
 
 ⚠️ DEPRECATED!
-This value is deprecated and will be removed after 2021-12-31.
+This value is deprecated and will be removed after 2021-01-01.
 Please update your code to use the `donations_count`.
 
 Number of unique donors, based on the payment-email-address

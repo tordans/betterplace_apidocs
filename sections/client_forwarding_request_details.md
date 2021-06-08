@@ -100,7 +100,7 @@ DateTime (ISO8601 with Timezone)
     </tr>
     <tr>
       <th align="left">confirmed_at</th>
-      <td><code>string</code></td>
+      <td><code>undefined</code></td>
       <td><code>2016-11-11T09:50:06+01:00</code></td>
 <td>
 
@@ -110,7 +110,7 @@ DateTime (ISO8601 with Timezone)
     </tr>
     <tr>
       <th align="left">failed_at</th>
-      <td><code>string</code></td>
+      <td><code>undefined</code></td>
       <td><code>2016-11-11T09:50:06+01:00</code></td>
 <td>
 
